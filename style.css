@@ -1,14 +1,16 @@
 
+html {
+    justify-content: center;
+}
 section {
     background-color: #000640;
     box-sizing: border-box;
     align-items: center;
     width: fit-content;
     margin: 1vh;
-    padding: 10px;
-    border-radius: 1rem;
+
     padding-bottom: 20vh;
-    float: right;
+    float: left;
 }
 
 
@@ -19,7 +21,7 @@ article {
     box-sizing: border-box;
     text-align: center;
     width: 50vh;
-    height: 45vh;
+    height: 50vh;
     font-size: 4vh;
 }
 
